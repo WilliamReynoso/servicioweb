@@ -1,3 +1,6 @@
+--Crear Login
+--Crear usuario ligado a ese login
+--Editar usuario y darle permisos en Membership
 
 -- Tabla de Alumnos (modificada)
 CREATE TABLE Alumnos (
@@ -14,7 +17,6 @@ CREATE TABLE Alumnos (
     Direccion VARCHAR(255),
     ImagenPerfil VARBINARY(MAX),
     SeguroSocial BIT,
-    Correo VARCHAR(255)
 )
 
 
