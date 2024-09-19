@@ -1,5 +1,5 @@
 import { Button } from "@mui/material";
-import { useAlumnoStore } from "./store/alumnos";
+import { useAlumnoStore } from "../store/alumnos";
 
 export const Start = () => {
   const fetchAlumnos = useAlumnoStore((state) => state.fetchAlumnos);

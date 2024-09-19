@@ -6,7 +6,7 @@ const port = 3000;
 // SQL Server configuration
 const config = {
   user: "pruebas", // Database username
-  password: "1234",
+  password: "12345",
   server: "localhost", // Server IP address
   database: "sissatest", // Database name
   pool: {

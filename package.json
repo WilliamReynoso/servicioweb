@@ -17,6 +17,7 @@
     "@mui/material": "^5.16.6",
     "express": "^4.19.2",
     "mssql": "^11.0.1",
+    "path-to-regexp": "^7.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "zustand": "^4.5.4"
